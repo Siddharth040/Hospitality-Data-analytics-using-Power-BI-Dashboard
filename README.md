@@ -1,2 +1,1 @@
-# Hospitality-Data-analytics-using-Power-BI-Dashboard
-Hospitality Data analytics using Power BI Dashboard
+Hospitality Data Analytics Project, developed using Power BI, aimed at visualizing and analyzing key metrics within the hospitality industry. The project highlights data-driven decision-making by creating an interactive and insightful dashboard to track and evaluate operational, financial, and customer-centric KPIs.
